@@ -1,0 +1,8 @@
+{
+  "name": "Copyright-Free AI Chat Bot",
+  "description": "A beautiful, clean, and completely copyright-free AI Chat Bot powered securely by the server-side Gemini API with full Bengali and English dual-language interface capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
